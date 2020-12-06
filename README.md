@@ -8,6 +8,13 @@ with an eye to extension, but also for greater convenience.
 
 -- Brian O'Reilly, January 25, 2013.
 
+## About this fork
+
+This is a fork of https://github.com/fiddlerwoaroof/cl-nntp and it contains
+following patches:
+
+* [Added `*debug*` special variable which is nil by default](https://github.com/fiddlerwoaroof/cl-nntp/pull/1).
+
 ## Description
 
 This is a NNTP client library. The current implementation is not
